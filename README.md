@@ -1,0 +1,2 @@
+# Monitor-de-laboratorio
+Um trabalho pessoal para testar conhecimentos. O monitor de laboratório serve para controle de equipamentos permitindo o crud básico do nome, tipo, condições do equipamento e outras informações
